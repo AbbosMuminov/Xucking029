@@ -12,6 +12,6 @@ I'm Abbos, a 25 years old Flutter developer from Uzbekistan.
 + a lot more :D
 
 ## Contact
-- [marton.lederer.hu](https://marton.lederer.hu)
-- [@martonlederer](https://twitter.com/martonlederer) on Twitter
-- [@martonlederer](./) on Discord
+- [Abbos ](https://t.me/Abboss07M) on Telegram
+- [Abbos Muminov](https://www.instagram.com/abboss07m) on Instagram
+
