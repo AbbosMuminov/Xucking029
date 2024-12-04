@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img src= alt="Abbos Muminov" />
-</h1>
-
 ## Hey! 👋
 I'm Abbos, a 25 years old Flutter developer from Uzbekistan.
 
